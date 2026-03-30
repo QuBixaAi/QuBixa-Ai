@@ -1,0 +1,344 @@
+=== Qubixa AI Skills Index ===
+
+Skill: agent-browser
+Type: general
+Path: ./skills\agent-browser
+
+==================================================
+
+Skill: ai-news-collectors
+Type: general
+Path: ./skills\ai-news-collectors
+Metadata: {
+  "ownerId": "kn7fr165ff9vkkwsqyqrq2nwas80t4ev",
+  "slug": "ai-news-collectors",
+  "version": "1.0.0",
+  "publishedAt": 1770615394344
+}
+
+==================================================
+
+Skill: aminer-open-academic
+Type: general
+Path: ./skills\aminer-open-academic
+Metadata: {
+  "ownerId": "kn7c22dqbrjkrkvqgr7w0w88x182468m",
+  "slug": "aminer-open-academic",
+  "version": "1.0.5",
+  "publishedAt": 1772533215064
+}
+
+==================================================
+
+Skill: ASR
+Type: general
+Path: ./skills\ASR
+
+==================================================
+
+Skill: auto-target-tracker
+Type: general
+Path: ./skills\auto-target-tracker
+
+==================================================
+
+Skill: blog-writer
+Type: general
+Path: ./skills\blog-writer
+Metadata: {
+  "ownerId": "kn722nva0z7svbapne80p8e8jd7zwmk7",
+  "slug": "blog-writer",
+  "version": "0.1.0",
+  "publishedAt": 1769361436760
+}
+
+==================================================
+
+Skill: coding-agent
+Type: general
+Path: ./skills\coding-agent
+Metadata: {
+  "ownerId": "kn73vp5rarc3b14rc7wjcw8f8580t5d1",
+  "slug": "code",
+  "version": "1.0.4",
+  "publishedAt": 1771467169291
+}
+
+==================================================
+
+Skill: content-strategy
+Type: general
+Path: ./skills\content-strategy
+Metadata: {
+  "ownerId": "kn732qfbv22he1jqm63xbwq6e980kn8s",
+  "slug": "content-strategy",
+  "version": "0.1.0",
+  "publishedAt": 1770341804646
+}
+
+==================================================
+
+Skill: contentanalysis
+Type: general
+Path: ./skills\contentanalysis
+
+==================================================
+
+Skill: docx
+Type: general
+Path: ./skills\docx
+
+==================================================
+
+Skill: dream-interpreter
+Type: general
+Path: ./skills\dream-interpreter
+
+==================================================
+
+Skill: finance
+Type: general
+Path: ./skills\finance
+
+==================================================
+
+Skill: fullstack-dev
+Type: general
+Path: ./skills\fullstack-dev
+
+==================================================
+
+Skill: get-fortune-analysis
+Type: general
+Path: ./skills\get-fortune-analysis
+
+==================================================
+
+Skill: gift-evaluator
+Type: general
+Path: ./skills\gift-evaluator
+
+==================================================
+
+Skill: image-edit
+Type: general
+Path: ./skills\image-edit
+
+==================================================
+
+Skill: image-generation
+Type: general
+Path: ./skills\image-generation
+
+==================================================
+
+Skill: image-understand
+Type: general
+Path: ./skills\image-understand
+
+==================================================
+
+Skill: interview-designer
+Type: general
+Path: ./skills\interview-designer
+Metadata: {
+  "ownerId": "kn73h39f2c8arzkcvwmafak9mn80wq7d",
+  "slug": "interview-designer",
+  "version": "1.0.0",
+  "publishedAt": 1770749339448
+}
+
+==================================================
+
+Skill: LLM
+Type: general
+Path: ./skills\LLM
+
+==================================================
+
+Skill: market-research-reports
+Type: general
+Path: ./skills\market-research-reports
+
+==================================================
+
+Skill: marketing-mode
+Type: general
+Path: ./skills\marketing-mode
+Metadata: {
+  "ownerId": "kn72ce44tqw8bnnnewrn1s5x3s7yz7sq",
+  "slug": "marketing-mode",
+  "version": "1.0.0",
+  "publishedAt": 1769016558544
+}
+
+==================================================
+
+Skill: mindfulness-meditation
+Type: general
+Path: ./skills\mindfulness-meditation
+Metadata: {
+  "ownerId": "kn7dsqp497235e9hhzdwd0q9a57zxjw6",
+  "slug": "mindfulness-meditation",
+  "version": "1.0.0",
+  "publishedAt": 1769326483710
+}
+
+==================================================
+
+Skill: multi-search-engine
+Type: general
+Path: ./skills\multi-search-engine
+Metadata: {
+  "ownerId": "kn79j8kk7fb9w10jh83803j7f180a44m",
+  "slug": "multi-search-engine",
+  "version": "2.0.1",
+  "publishedAt": 1770313848158
+}
+
+==================================================
+
+Skill: pdf
+Type: general
+Path: ./skills\pdf
+
+==================================================
+
+Skill: podcast-generate
+Type: general
+Path: ./skills\podcast-generate
+
+==================================================
+
+Skill: pptx
+Type: general
+Path: ./skills\pptx
+
+==================================================
+
+Skill: qingyan-research
+Type: general
+Path: ./skills\qingyan-research
+
+==================================================
+
+Skill: seo-content-writer
+Type: general
+Path: ./skills\seo-content-writer
+Metadata: {
+  "ownerId": "kn73qjxwmbna25qq8q051epqt980sys5",
+  "slug": "seo-content-writer",
+  "version": "2.0.0",
+  "publishedAt": 1771042677304
+}
+
+==================================================
+
+Skill: skill-creator
+Type: general
+Path: ./skills\skill-creator
+
+==================================================
+
+Skill: skill-finder-cn
+Type: general
+Path: ./skills\skill-finder-cn
+Metadata: {
+  "ownerId": "kn71y3mdbcx5dyhwxv1t7sm82x81a168",
+  "slug": "skill-finder-cn",
+  "version": "1.0.0",
+  "publishedAt": 1771323389748
+}
+
+==================================================
+
+Skill: skill-vetter
+Type: general
+Path: ./skills\skill-vetter
+
+==================================================
+
+Skill: stock-analysis-skill
+Type: general
+Path: ./skills\stock-analysis-skill
+
+==================================================
+
+Skill: storyboard-manager
+Type: general
+Path: ./skills\storyboard-manager
+
+==================================================
+
+Skill: TTS
+Type: general
+Path: ./skills\TTS
+
+==================================================
+
+Skill: ui-ux-pro-max
+Type: general
+Path: ./skills\ui-ux-pro-max
+Metadata: {
+  "ownerId": "kn7dzk42mb9ceh8sm1zdx51sws803c9b",
+  "slug": "ui-ux-pro-max",
+  "version": "0.1.0",
+  "publishedAt": 1769616159343
+}
+
+==================================================
+
+Skill: video-generation
+Type: general
+Path: ./skills\video-generation
+
+==================================================
+
+Skill: video-understand
+Type: general
+Path: ./skills\video-understand
+
+==================================================
+
+Skill: visual-design-foundations
+Type: general
+Path: ./skills\visual-design-foundations
+
+==================================================
+
+Skill: VLM
+Type: general
+Path: ./skills\VLM
+
+==================================================
+
+Skill: web-reader
+Type: general
+Path: ./skills\web-reader
+
+==================================================
+
+Skill: web-search
+Type: general
+Path: ./skills\web-search
+
+==================================================
+
+Skill: writing-plans
+Type: general
+Path: ./skills\writing-plans
+Metadata: {
+  "ownerId": "kn7b7sdwcjy1etamx2zvahc5xx80k8d4",
+  "slug": "writing-plans",
+  "version": "0.1.0",
+  "publishedAt": 1770691953645
+}
+
+==================================================
+
+Skill: xlsx
+Type: general
+Path: ./skills\xlsx
+
+==================================================
+
